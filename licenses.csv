@@ -32,6 +32,7 @@ Apache-1.0
 Apache-1.1
 Apache-2.0
 App-s2p
+Arphic-1999
 Artistic-1.0
 Artistic-1.0-Perl
 Artistic-1.0-cl8
@@ -59,11 +60,13 @@ BSD-Protection
 BSD-Source-Code
 BSL-1.0
 BUSL-1.1
+Baekmuk
 Bahyph
 Barr
 Beerware
 BitTorrent-1.0
 BitTorrent-1.1
+Bitstream-Vera
 BlueOak-1.0.0
 Borceux
 CAL-1.0
@@ -476,6 +479,7 @@ libpng-2.0
 libselinux-1.0
 libtiff
 mpich2
+mplus
 psfrag
 psutils
 wxWindows
