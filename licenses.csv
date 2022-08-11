@@ -80,6 +80,7 @@ CC-BY-2.5-AU
 CC-BY-3.0
 CC-BY-3.0-AT
 CC-BY-3.0-DE
+CC-BY-3.0-IGO
 CC-BY-3.0-NL
 CC-BY-3.0-US
 CC-BY-4.0
@@ -273,6 +274,8 @@ LPPL-1.1
 LPPL-1.2
 LPPL-1.3a
 LPPL-1.3c
+LZMA-SDK-9.11-to-9.20
+LZMA-SDK-9.22
 Latex2e
 Leptonica
 LiLiQ-P-1.1
@@ -294,10 +297,12 @@ MPL-1.0
 MPL-1.1
 MPL-2.0
 MPL-2.0-no-copyleft-exception
+MS-LPL
 MS-PL
 MS-RL
 MTLL
 MakeIndex
+Minpack
 MirOS
 Motosoto
 MulanPSL-1.0
@@ -310,6 +315,7 @@ NBPL-1.0
 NCGL-UK-2.0
 NCSA
 NGPL
+NICTA-1.0
 NIST-PD
 NIST-PD-fallback
 NLOD-1.0
@@ -384,6 +390,7 @@ PolyForm-Noncommercial-1.0.0
 PolyForm-Small-Business-1.0.0
 PostgreSQL
 Python-2.0
+Python-2.0.1
 QPL-1.0
 Qhull
 RHeCos-1.1
@@ -479,6 +486,7 @@ libpng-2.0
 libselinux-1.0
 libtiff
 mpich2
+mpi-permissive
 mplus
 psfrag
 psutils
